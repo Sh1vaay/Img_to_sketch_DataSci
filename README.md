@@ -1,5 +1,4 @@
-# LGMVIP-DataScience_Task1--4
-
+# DataScience_image_to_sketch
 1 Load the image into Python using the cv2.imread() function. This reads the image from a file and stores it in a NumPy array.
 2 convert the image to grayscale using the cv2.cvtColor() function. This removes all the color information from the image and leaves us with just the brightness values.
 3 Use the cv2.GaussianBlur() function to smooth out any noise or details in the image. This helps to create a cleaner sketch effect.
